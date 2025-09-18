@@ -1,1 +1,4 @@
 .direnv/
+*/__pycache__/
+rendercv_output/
+!rendercv_output/*.pdf
