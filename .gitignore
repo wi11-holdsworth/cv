@@ -1,4 +1,5 @@
 .direnv/
 */__pycache__/
-rendercv_output/
-!rendercv_output/*.pdf
+rendercv_output/*.html
+rendercv_output/*.md
+rendercv_output/*.typ
