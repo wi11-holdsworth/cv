@@ -76,7 +76,7 @@ cv:
       - label: Programming
         details: Python, Rust, Typescript/Javascript, Kotlin/Java, Nix, C, Shell Script, SQL, MATLAB
       - label: Developer Tools
-        details: Git, Docker, Gradle, Vim, VSCode, IntelliJ IDEA
+        details: Git, GitHub, GitLab, JUnit, pytest, Gradle, Docker, Trello
 design:
   theme: engineeringresumes
   page:
